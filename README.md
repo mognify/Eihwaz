@@ -3,7 +3,7 @@ originally named Orient, the purpose of this program is to grant versatile autom
 
 began with Java's Robot API, then added OpenCV's template matching, and expanded on the versatility of each
 
-future aspirations are with audio, graphs, connecting to other apis... xd and somehow incorporating blockchain/crypto stuff...
+future aspirations are with audio, graphs, connecting to other apis... xd and somehow incorporating blockchain/crypto stuff... probably analyzing crypto trends... https://thegraph.com/ seems like a good next step
 
 feel free to send some BTC here: 1F8LWaxqcTyHgyhp6AF1pqsWU8VH7Czbt9
 
