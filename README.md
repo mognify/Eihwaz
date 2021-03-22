@@ -1,5 +1,6 @@
 # Eihwaz
 originally named Orient, the purpose of this program is to grant versatile automation abilities. Efficiency follows expansion, unfortunately.
+
 began with Java's Robot API, then added OpenCV's template matching, and expanded on the versatility of each
 future aspirations are with audio, graphs, connecting to other apis... xd
 
