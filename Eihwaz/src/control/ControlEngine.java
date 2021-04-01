@@ -774,7 +774,7 @@ public static volatile int threadCount = 0;
 		});
     	break;
     case "match": // fileNameOfImageToMatch matchThreshold command arguments
-    	instrArr = instr.substring(cmdlen).split(" "); // pulls all the shit
+    	instrArr = instr.substring(cmdlen).split(" "); // pulls all the shit: truncates command name, and focuses on args
     	imageName = instrArr[0];
     	threshold = Double.valueOf("." + instrArr[1].replace(".","")); // makes sure threshold comes in as a decimal value for percentage
 		ImageAccess.threshold = threshold;
