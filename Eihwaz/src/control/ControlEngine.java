@@ -921,7 +921,6 @@ public static volatile int threadCount = 0;
     	break;
     case "manyMatch": // fileNameOfImageToMatch matchThreshold command arguments
     	instrArr = instr.substring(cmdlen).split(" "); // pulls all the shit
-    	//imageName = instrArr[0];
     	threshold = Double.valueOf(("." + instrArr[0].replace(".",""))); // makes sure threshold comes in as a decimal value for percentage
     	Orient2.println("threshold: " + threshold);
 		ImageAccess.threshold = threshold;
