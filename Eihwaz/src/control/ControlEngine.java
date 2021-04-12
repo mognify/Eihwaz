@@ -662,7 +662,7 @@ public static volatile int threadCount = 0;
 						} catch (NumberFormatException | InterruptedException | AWTException
 								| UnsupportedFlavorException | IOException e) {
 							// TODO Auto-generated catch block
-							Orient2.println("onCopy fucked up");
+							Orient2.println("onCopy messed up");
 						}
 				}*/
 			}
