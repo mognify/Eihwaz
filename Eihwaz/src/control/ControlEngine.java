@@ -513,7 +513,6 @@ public static volatile int threadCount = 0;
     	break;
     case "ctrl":
     	KeyboardController.ctrlDown();
-    	// 2/13/2021 TODO ctrl, shift, alt... followed by whatever keys to press next...
     	KeyboardController.ctrlUp();
     	break;
     case "altDown":
